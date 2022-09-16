@@ -1,0 +1,19 @@
+Opdr Sectie 2 - Kennisopdrachten
+
+1. <HTML> of de <HEAD>
+
+2. De <HEAD> zord voor alle algemene info
+   De <BODY> bevat alle info die zichtbaar is op de website zelf
+
+3. Een tag word gebruikt om aan te tonen wat een bepaald element doet
+
+4. De eigenschappen van een element word attribuut genoemd
+
+5. class = "Primary"
+   Class = Atribuut naam
+   "Primary" = Atribuut value
+6. Met de tag <a>
+7. Een extreme link is een hyperlink die je doorstuurd naar een ander domein Dus
+van website A doorstuurd naar website B
+En een interne link zorgt er voor dat je naar een andere pagina op dezelfde website
+word gestuurd
