@@ -1,0 +1,46 @@
+1, CSS is een programeertaal waarmee je een website kunt designen 
+(Dus bijvoorbeeld makkelijk een lettertype aanpassen van een tag).
+
+2, Je kan met CSS de opmaak van bepaalde dingen veranderen in 1 simpel bestandje,
+waarmee het overzichtelijk blijft.
+
+3, HTML zorg je voor alles wat op de webite zelf komt
+En met CSS zorg je er voor dat de dingen die je in HTML zet kunt designen.
+
+4, Je kan het toevoegen doormiddel van een bestandje, in de bestanden van je website.
+
+5, Open op je pc de folder waar alles betreft je website in staat, voeg een textbestandje toe
+en noem het "style.css" nu kun je daarin met code je website designen.
+
+6, Ik vind de manier die ik hier boven heb uitgelegd het makkelijkste, omdat ik al goed weet
+hoe je het er in moet zetten, dus ik vind persoonlijk dit makkelijker.
+
+7, Dat is het eerste wat in je CSS bestandje komt en wat je gaat editen,
+zoals de tag <h1> h1 is dan je selector
+
+8, Een declaratieblok zijn vaak meerdere declaraties en een declaratie is een CSS
+eigenschap die eindigt op een ; (punt, komma).
+
+9, Een spatie tussen de } en de h6.
+
+10, Het zorgt er voor dat de linker en de rechter kant van de marge van een element
+word weggehaalt of zo nodig worden aangepast.
+
+11, Een Class beschrijft de design van een bepaalt element op de website.
+
+12, Een ID zorgt er het zelfde voor als een Class, het beschrijft de disign van
+een bepaalt element op de website.
+
+13, Een ID is iets anders, omdat de ID er voor zorgt dat maar 1 element dat ID kan hebben,
+Bij een class kun je dus meerdere hebben.
+
+14, De padding bepaalt de hoeveelheid ruimte binnen een element,
+en de margin bepaalt de hoeveelheid ruimte buiten het element.
+
+15, De "basic" box model bepaalt de: "Size, position and
+properties zoals: (kleur, background, border size)".
+
+16, Block element begint op een nieuwe lijn en gaat zo ver uit het beeld als het nodig is
+En een Inline element begint op een nieuwe regel en neemt zo veel ruimte in beslag als hoe groot het is.
+
+17, Toepassingen wat je met een "div" kunt doen zijn, de uitlijning, kleur en grootte aanpassen.

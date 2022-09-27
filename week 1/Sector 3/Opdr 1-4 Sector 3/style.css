@@ -1,0 +1,85 @@
+body{
+    height: 1920px;
+    width: 1080px;
+}
+
+h1{
+    position: absolute;
+    font-family: "Courier New";
+    color: green;
+    font-size: 50px;
+    top: -20px;
+}
+
+p1{
+    position: absolute;
+    font-family: "Courier New";
+    color: rgb(255, 0, 0);
+    font-size: 30px;
+    font-weight: bold;
+    top: 80px;
+}
+
+p2{
+    position: absolute;
+    font-family: "Courier New";
+    color: rgb(0, 98, 255);
+    font-size: 20px;
+    top: 140px;
+}
+
+p3{
+    position: absolute;
+    font-family: "Courier New";
+    color: rgb(0, 55, 143);
+    font-size: 20px;
+    font-weight: bold;
+    top: 310px;
+}
+
+.img1{
+    position: absolute;
+    font-family: "Courier New";
+    color: rgb(0, 55, 143);
+    font-size: 20px;
+    top: 350px;
+}
+
+.img2{
+    position: absolute;
+    font-family: "Courier New";
+    color: rgb(0, 55, 143);
+    font-size: 20px;
+    top: 350px;
+    left: 170px;
+}
+
+p4{
+    position: absolute;
+    font-family: "Courier New";
+    color: rgb(0, 191, 19);
+    font-size: 20px;
+    top: 400px;
+}
+
+.tijgerplaatje{
+    position: absolute;
+    border-radius: 20px;
+    top: 430px;
+    left: 100px;
+}
+
+.download{
+    position: absolute;
+    font-size: 20px;
+    top: 600px;
+}
+
+h2{
+    position: absolute;
+    font-family: "Courier New";
+    color: rgb(0, 191, 19);
+    font-size: 80px;
+    font-weight: bold;
+    top: 600px;
+}
