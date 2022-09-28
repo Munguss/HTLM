@@ -1,0 +1,133 @@
+body{
+    height: 1920px;
+    width: 1080px;
+}
+
+h1{
+    position: absolute;
+    font-family: "Courier New";
+    color: green;
+    font-size: 30px;
+    font-weight: bold;
+    top: -20px;
+}
+
+.div1 {
+    width: 200px;
+    height: 200px;
+    padding: 125px;
+    border: 10px solid rgb(0, 0, 0);
+    position: relative; top: 30px;
+  }
+
+
+.tijger{
+    position: relative; top: -300px; left: 130px;
+}
+
+h2{
+    position: absolute;
+    font-family: "Courier New";
+    color: green;
+    font-size: 30px;
+    font-weight: bold;
+    position: relative; top: -195px;
+}
+
+h3{
+    position: absolute;
+    font-family: "Courier New";
+    color: red;
+    font-size: 20px;
+    font-weight: bold;
+    position: relative; top: -210px;
+}
+
+p{
+    position: absolute;
+    font-family: "Courier New";
+    color: green;
+    font-size: 15px;
+    position: relative; top: -210px;
+}
+
+h4{
+    position: absolute;
+    font-family: "Courier New";
+    color: green;
+    font-size: 20px;
+    font-weight: bold;
+    position: relative; top: -225px;
+}
+
+.img1{
+    position: absolute;
+    font-family: "Courier New";
+    color: rgb(0, 55, 143);
+    font-size: 20px;
+    top: 850px;
+}
+
+.img2{
+    position: absolute;
+    font-family: "Courier New";
+    color: rgb(0, 55, 143);
+    font-size: 20px;
+    top: 850px;
+    left: 170px;
+}
+
+h5{
+    position: absolute;
+    font-family: "Courier New";
+    color: green;
+    font-size: 20px;
+    font-weight: bold;
+    position: relative; top: 0px;
+}
+
+h6{
+    position: absolute;
+    font-family: "Courier New";
+    color: green;
+    font-size: 20px;
+    font-weight: bold;
+    position: relative; top: -70px;
+    left: 1300px;
+}
+
+.tijger2{
+    position: absolute; top: 1150px; left: 600px;
+    border-radius: 25%;
+    width: 200px;
+    height: 200px;
+}
+
+h22{
+    position: absolute;
+    font-family: "Courier New";
+    color: green;
+    font-size: 30px;
+    font-weight: bold;
+    position: relative; top: -1250px;
+    left: 1100px;
+}
+
+h33{
+    position: absolute;
+    font-family: "Courier New";
+    color: red;
+    font-size: 20px;
+    font-weight: bold;
+    position: relative; top: -1230px;
+    left: 880px;
+}
+
+p1{
+    position: absolute;
+    font-family: "Courier New";
+    color: green;
+    font-size: 15px;
+    position: absolute; top: -210px;
+    left: 100px;
+}
