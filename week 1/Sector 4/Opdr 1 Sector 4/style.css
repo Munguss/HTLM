@@ -1,0 +1,30 @@
+body{
+
+    width: 1920;
+    height: 1080;
+}
+
+h1{
+    position: absolute;
+    font-family: "Courier New";
+    color: green;
+    font-size: 30px;
+    font-weight: bold;
+    position: relative; top: -10px;
+}
+
+.container{
+        position: absolute;
+        font-family: "Courier New";
+        color: green;
+        font-size: 20px;
+        line-height: 50%;
+}
+
+.Login{
+    position: absolute;
+    font-family: "Courier New";
+    color: green;
+    font-size: 20px;
+    line-height: 50%;
+}

@@ -1,0 +1,14 @@
+1, Web design is hoe een website gedesignd is of word.
+2, Web development is hoe de webite in elkaar zit, dus meer IN de website zelf,
+En Web design is hoe het er uit ziet dus meer Buiten de website de kleuren etc.
+3, Een flat design is bijvoorbeeld een design wat al voor jou gemaakt is, je moet alleen
+nog je eigen text etc toevoegen, alleen de kleuren etc staan er al in?
+4, Webtypografie is de lettertypes en design daarvan op je website.
+5, Dat kun je zelf kiezen, maar stel je maakt voor albert heijn een website,
+Dan zou je blauw wit moeten gebruiken
+7, Whitespace is een string of text wat zorgt voor paces, tabs or line breaks.
+8, Het selecteren tussen je locatie's, anders kun je niks met deze website.
+
+Vaardigheidsopdrachten;
+
+2, Dan zou je bijvoorbeeld, rood kunnen gebruiken (rodenkruis) samen gevoegt met wit.
