@@ -1,0 +1,7 @@
+1, RGB kleur van donkerblauw is (0,0,139)
+2, RGBA is de standaard kleuren (Rood, Groen, Blauw) 
+die word gebruikt door computerschermen en bijvoorbeeld met coderen.
+3, Staat in de index
+4, Ik heb echt geen ideeee :).
+5, Staat in de index
+6, Staat in de index

@@ -1,0 +1,8 @@
+body{
+width: 1920;
+height: 1080;
+}
+
+.tijger{
+    position: relative; top: 60px; left: 500px;
+}
