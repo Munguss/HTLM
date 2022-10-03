@@ -1,0 +1,38 @@
+1, Je moet eerst nadenken over hoe je het gaat maken, welke kleuren je gaat gebruiken
+en hoe het er uit komt te zien.
+2, Dat de gebruikers snel kunnen starten in de website, snel en makkelijk een account
+kunnen maken bijfoorbeeld
+3, Dat is dat je de website maakt voor mobiel en op de laptop bijfoorbeeld
+zodat je automatisch de resolutie aanpast van de website zodat het past.
+4, De 3 ingredienten zijn onder anderen, De lay-out, Content en de Gebruikservaring.
+5, Main tag gebruik je in je body tag om makkelijk iets groots aan te geven.
+6, Header element is een tag die iets aan de boven kant van je website plaatst.
+Omdat je maar 1 header heb in je webite dus je hoeft het maar 1x te designen
+7, Black, #000000, (0,0,0)
+8, Een block-level element start altijd op een nieuwe regel en neemt het hele breedte
+in en kan uitsteken, een inline-block-element kan niet uitsteken buiten je website
+9, dat is een speciale tag waarbij je comments kan toevoegen bij een stuk code
+10, /* TEXTTEXT */
+11, Met een float tag kun je een element zwevend maken en daardor kan het een andere plaats
+krijgen dan de normale flow.
+12, Pseudo class word gebruikt om een bepaalde effect aan een selector toe te voegen,
+bijfoorbeeld :hover als je met je muis erover heen gaat veranderd het.
+13, een svg bestand is een bestandstype dat geschikt is voor op het web, en het word geprint
+doormiddel van een wiskundige formule met punten en lijnen.
+14, Padding is de ruimte tussen een element en de inhoud daarvan.
+15, Margin is de ruimte tussen een element en een ander element.
+16, Padding zorgt voor ruimte tssen een element en de inhoud, 
+en Margin zorgt voor ruimte tussen verschillende elementen.
+17, Die zorgt voor meer ruimte tussen de 1ste en 2de element en iets minder ruimte tussen
+de 2de en 3de element en staat iets naar links.
+18, Overflow zorgt er voor dat de text altijd het zelfde form heeft en in de website past,
+als iemand zijn text size aanpast dan past alles nog op de website.
+19, ?
+20, ?
+21, ?
+22, <form> Dat is de tag voor een formulier en zorgt er voor dat het systeem weet wat
+er met de gegevens moet gebeuren die in het formulier zijn ingevult.
+23, Omdat je eerst iets op je webstie moet hebben voordat je het kan designen, het heeft geen
+nut om iets te desigen wat er niet is.
+24, Dat zorgt voor het gedeelte onderaan je website.
+25, <footer>
