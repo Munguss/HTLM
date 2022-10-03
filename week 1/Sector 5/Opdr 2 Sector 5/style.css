@@ -1,0 +1,33 @@
+body{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.color {
+    flex-basis: 170px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+    margin-left: 140px;
+    margin-top: 20px;
+}
+  
+.div1 {
+    background-color: green;
+}
+  
+.div2 {
+    background-color: yellow;
+}
+  
+.div3 {
+    background-color: red;
+}
+  
+.div4 {
+    background-color: blue;
+}

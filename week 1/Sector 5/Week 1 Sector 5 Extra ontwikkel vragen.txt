@@ -1,0 +1,19 @@
+4,
+Content 1:
+div: Content1 {
+	border: 3px solid Red;
+	margin: Irem;
+}
+Content 2:
+div: Content2 {
+	border: 3px solid	Blue;
+	margin: Irem;
+}
+
+5, content= "text/html; charset= &#36" />
+
+6, Het zorgt er voor dat ze het verwerken van de huidig stylesheet blokkeren.
+
+7, Ik doe het stel ik heb iets aangepast aan de website, vervolgens save ik het en
+reload ik de website om te kijken of het werkte en of ik het goed heb gedaan, of
+dat ik het weer opnieuw moet aanpassen.
