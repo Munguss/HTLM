@@ -1,0 +1,35 @@
+body{
+    background:white;
+}
+
+.square {
+    border: 5px solid black;
+    text-align: center;
+    width: 50vw;
+    height: 50vw;
+    background-color: red;
+}
+
+@media (max-width: 1500px){
+    .square{
+        color: red;
+    }
+}
+
+@media (max-width: 1200px){
+    .square{
+        background-color: yellow;
+    }
+}
+
+@media (max-width: 900px){
+    .square{
+        background-color: green;
+    }
+}
+
+@media (max-width: 600px){
+    .square{
+        background-color: blue;
+    }
+}

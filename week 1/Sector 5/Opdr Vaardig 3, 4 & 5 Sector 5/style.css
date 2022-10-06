@@ -1,0 +1,20 @@
+body{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.tijgers{
+    width: 1800px;
+    height: 400px;
+    resize: vertical;
+    left: -100px;
+   }
+
+   h1{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: green;
+    color: white;
+    position: relative;
+    left: 1280px;
+    top: 280px;
+   }

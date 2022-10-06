@@ -1,0 +1,12 @@
+body{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+   .a2{
+    font-family: 'Courier New', Courier, monospace;
+   }
+
+   .a1{
+    font-family: 'Courier New', Courier, monospace;
+   }

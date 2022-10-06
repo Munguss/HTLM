@@ -1,0 +1,38 @@
+1,
+
+h1{
+	font-family: 'Mukta Malar';
+}
+
+2,
+
+@media only screen and (max-width: 600px) {
+}
+Media Queries word gebruikt om verschillende styles toe te voegen aan
+verschillende media types of devices.
+
+6,
+a {
+
+text-transform: uppercase;
+
+}
+
+7,
+
+h1 {
+
+text-transform: lowercase;
+
+}
+
+a {
+
+text-transform: lowercase;
+
+}
+
+15, 
+.clearfix {
+  overflow: auto;
+}

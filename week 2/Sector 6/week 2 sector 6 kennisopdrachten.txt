@@ -1,0 +1,24 @@
+1, Media query is dat de pagina responsive is voor als het beeld kleiner word
+of voor als je het opend op een ander device dat het in het scherm past.
+2, Stel ik heb een button in mijn voledige scherm staan, en je opent de website
+op je telefoon die natuurlijk kleiner is, dan staat de butten ook voledig op je
+scherm op je telefoon alleen dan kleiner zodat hij niet uitsteekt.
+3, Webkit renterd dingen op safari of crome,
+
+“-webkit-background-color: red;”
+
+Dit betekend dat het gene wat hij renderd, de achtergrondkleur daarvan rood word.
+
+4,
+
+“-moz-font-size: 2rem”
+
+Is het zelfde als bij opdracht 3 alleen is dit voor Firefox bedoelt.
+
+5,
+1.Stel je veranderd iets, dan moet het wel werken, als je website niet werkt dan
+heb je er dus ook niks aan.
+2.Als er bugs of fouten in je website zitten moet je die oplossen en testen
+of ze zijn opgelost, anders werkt je website ook niet.
+3.Je moet ook goed de beveiliging testen op je website want je wilt niet dat
+je website zomaar gehackt word.
