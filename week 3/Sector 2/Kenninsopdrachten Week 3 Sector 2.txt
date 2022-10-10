@@ -1,0 +1,23 @@
+1, met . is een normale foto,
+met .. is dat je een dubbele foto maakt.
+
+2, Dat is dat een propperty dat je in je html zet komt tegen de rand aan van waar het element
+in staat.
+
+3, Daarmee kun je op je website iets laten bewegen.
+
+4, From & To; waar begint de animatie en waatr eindigt het.
+
+5, dat zorgt er voor dat er iets gebeurt, zoals als je met je muis ergens overheen hovert
+of er op klikt.
+
+6, hier boven staan er 2, en stel je heb ooit op een bepaalde link geklikt, heeft het een
+andere kleur.
+
+7, Rood.
+
+8, Dat paarsblauw achtige.
+
+9, Dat verplaatst de text makkelijk over de pagina.
+
+10, Zorgt door dat er iets gebeurt als het word geactiveerd dus als er bijf op gelikt word.
