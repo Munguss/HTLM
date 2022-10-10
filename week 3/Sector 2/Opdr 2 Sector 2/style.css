@@ -1,0 +1,8 @@
+.bar{
+    width: 150px;
+    height: 50px;
+    background-color: black;
+    position: relative;
+    top: -580px;
+    left: 1020px;
+}
