@@ -1,0 +1,15 @@
+.bord {
+    border: 2px solid black;
+    width: 400px;
+    display: grid;
+    grid-template-columns: repeat(4, 100px);
+    grid-template-rows: repeat(4, 100px);
+}
+
+.wit {
+    background-color: white;
+}
+
+.zwart {
+    background-color: black;
+}
