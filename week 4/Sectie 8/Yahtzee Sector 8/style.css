@@ -1,28 +1,70 @@
+/* Body van de website*/
+body{
+  background:linear-gradient(gray,white);
+}
+
+/* Player Name*/
+.player {
+  width: 285px;
+  display: flex;
+  position: relative;
+  left: 10px;
+  font-size: 20px;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+/* Voor de grid */
 .grid-container {
     display: grid;
-    grid-template-columns: auto auto auto auto auto auto auto auto;
+    grid-template-columns: auto auto auto;
     width: 10px;
     padding: 10px;
   }
-
-  .grid-container2 {
-    display: grid;
-    grid-template-columns: auto auto auto auto auto auto auto auto;
-    width: 10px;
-    padding: 10px;
-  }
-
   .grid-item {
     background-color: rgba(255, 255, 255, 0.8);
     border: 1px solid black;
     padding: 10px;
-    font-size: 30px;
+    font-size: 10px;
     text-align: center;
+    width: 80px;
+    height: 3px;
+    font-family: 'Courier New', Courier, monospace;
   }
 
-  .grid-item2 {
-    background-color: rgba(255, 255, 255, 0.8);
-    padding: 10px;
-    font-size: 30px;
-    text-align: center;
+  /* Input velden */
+  input{
+    position: relative;
+    top: -10px;
+    width: 92px;
+    left: -10px;
+    background-color: lightgray;
+  }
+
+  /*Roll button*/
+  button{
+    height: 50px;
+    width: 320px;
+  }
+
+  /* Dobbelstenen */
+  .dice{
+    display: flex;
+    border-radius: 15px;
+    Border: solid black;
+    background-color: darkgray;
+    font-size: 300%;
+    justify-content: center;
+    align-items: center;
+    width: 60px;
+    float: right;
+    font-family: 'Courier New', Courier, monospace;
+  }
+
+  /* Text fonts*/
+  .roll{
+    font-family: 'Courier New', Courier, monospace;
+  }
+
+  .rollc{
+    font-family: 'Courier New', Courier, monospace;
   }
