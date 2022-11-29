@@ -52,10 +52,11 @@ body{
     border-radius: 15px;
     Border: solid black;
     background-color: darkgray;
-    font-size: 300%;
+    font-size: 500%;
     justify-content: center;
     align-items: center;
-    width: 60px;
+    width: 100px;
+    height: 100px;
     float: right;
     font-family: 'Courier New', Courier, monospace;
   }

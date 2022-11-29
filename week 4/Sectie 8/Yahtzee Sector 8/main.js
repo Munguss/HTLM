@@ -4,7 +4,8 @@ let diceHold = [false, false, false, false, false];
 let roll = 0;
 var count = 3;
 
-// Berekening voor het rollen van de dobbelstenen 
+// Bereken rollenning voor het van de dobbelstenen
+// & voor het houden van de dobbelstenen die je wilt
 function DiceRoll() {
     for (let i = 0; i < diceNumbers.length; i++) {
         if (!diceHold[i] && roll == 0) {
@@ -45,7 +46,7 @@ function HoldDice(number) {
 
 }
 
-// Count voor hoeveel rolls je nog nodig hebt
+// Count voor hoeveel rolls je nog over hebt
 function rollcount(){
 var oText=document.getElementById("span");
 count -=1;
@@ -58,13 +59,14 @@ if (count === 0){
 return;
 }
 
+// De functie die 2 dingen aanroept voor het rollen van de dice's
 function myfunction(){
     rollcount();
     DiceRoll();
 }
 
+// Dit zijn variabelen die worden omgezet waardoor het makkelijker word voor script
 var inputFormDiv = document.getElementById('inputForm');
-
 var Uitkomstdeel1 = document.getElementById('Uitkomstdeel1')
 var Uitkomstdeel2 = document.getElementById('Uitkomstdeel2')
 var Uitkomstpart2totaal = document.getElementById('Uitkomstpart2totaal')
@@ -73,7 +75,7 @@ var Uitkomstpart1totaal = document.getElementById('Uitkomstpart1totaal')
 var Totaaluitkomst = document.getElementById('Totaaluitkomst')
 var Bonus = document.getElementById('Bonus')
 
-// Optellen van het invoer vakjes
+// Optellen van het invoer vakjes Deel 1
 var vakjes = [];
     for(var i = 1; i <= 6; i++){
         var temp = document.getElementById(`SC${i}`)
@@ -93,6 +95,7 @@ function optellen(){
     optellen3();
 }
 
+// Optellen van het invoer vakjes Deel 2
 var vakjes2 = [];
     for(var i = 7; i <= 13; i++){
         var temp2 = document.getElementById(`SC${i}`)
@@ -111,6 +114,7 @@ function optellen2(){
     optellen3();
 }
 
+// De bonus word hier opgeteld
 var BonusC = [];
         var temp0 = document.getElementById(`Bonus`)
         temp0.addEventListener("change", optellenbonus)
@@ -126,10 +130,21 @@ function optellenbonus(){
     optellen3(); 
 }
 
+// Het totaal optellen van de 2 uitkomste van Deel 1 & deel 2
 function optellen3(){
     var totaal3 = 0;
 
     totaal3 = Number(Uitkomstpart1totaal.value) + Number(Uitkomstpart2totaal.value)
 
     document.getElementById('Totaaluitkomst').value = totaal3
+}
+
+function countNums(num) {
+    let count = 0;
+    for (let i = 0; i < dobbelstenen.length; i++){
+        if(dobbelstenen[i] == num){
+            count++
+        }
+    }
+    return num * count;
 }
